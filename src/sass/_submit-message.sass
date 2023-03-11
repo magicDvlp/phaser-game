@@ -1,0 +1,26 @@
+#submit-modal-success, #submit-modal-error
+	background: none
+	width: 100%
+	min-height: 100%
+	flex-wrap: wrap
+	flex-direction: column
+	justify-content: center
+	color: var(--textColor)
+	display: none
+	padding-left: 1rem
+	padding-right: 1rem
+	&.fancybox-content
+		display: inline-flex !important
+#submit-modal-success p, #submit-modal-error p
+	width: 100%
+	text-align: center
+	font-size: 4rem
+	text-transform: uppercase
+	font-weight: 800
+	color: #fff
+// @media(max-width: 1199px)
+// @media(max-width: 991px)
+// @media(max-width: 767px)
+@media(max-width: 575px)
+	#submit-modal-success p, #submit-modal-error p
+		font-size: 3rem

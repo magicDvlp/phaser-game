@@ -1,0 +1,24 @@
+@mixin addFontFamily($familyName: '', $fileName: '', $formats: null, $fontWeight: 400, $fontStyle: 'normal')
+	$allUrl: ()
+	$i: 1
+	@each $format in $formats
+		@if length($formats) != $i
+			$allUrl: append($allUrl, #{'url("../font/#{$fileName}.#{$format}") format("#{$format}"),'})
+		@if length($formats) == $i
+			$allUrl: append($allUrl, #{'url("../font/#{$fileName}.#{$format}") format("#{$format}")'})
+		$i: $i + 1
+	@font-face
+		font-family: $familyName
+		src: $allUrl
+		font-weight: $fontWeight
+		font-style: $fontStyle
+		font-display: swap
+
+@include addFontFamily('MuseoSansCyrl', $fileName: 'MuseoSansCyrl-900', $formats: ('woff', 'woff2'), $fontWeight: 900)
+@include addFontFamily('MuseoSansCyrl', $fileName: 'MuseoSansCyrl-900Italic', $formats: ('woff', 'woff2'), $fontWeight: 900, $fontStyle: italic)
+@include addFontFamily('MuseoSansCyrl', $fileName: 'MuseoSansCyrl-700', $formats: ('woff', 'woff2'), $fontWeight: 700)
+@include addFontFamily('MuseoSansCyrl', $fileName: 'MuseoSansCyrl-700Italic', $formats: ('woff', 'woff2'), $fontWeight: 700, $fontStyle: italic)
+@include addFontFamily('MuseoSansCyrl', $fileName: 'MuseoSansCyrl-500', $formats: ('woff', 'woff2'), $fontWeight: 400, $fontStyle: normal)
+@include addFontFamily('MuseoSansCyrl', $fileName: 'MuseoSansCyrl-500Italic', $formats: ('woff', 'woff2'), $fontWeight: 400, $fontStyle: italic)
+@include addFontFamily('MuseoSansCyrl', $fileName: 'MuseoSansCyrl-300', $formats: ('woff', 'woff2'), $fontWeight: 300, $fontStyle: normal)
+@include addFontFamily('MuseoSansCyrl', $fileName: 'MuseoSansCyrl-300Italic', $formats: ('woff', 'woff2'), $fontWeight: 300, $fontStyle: italic)

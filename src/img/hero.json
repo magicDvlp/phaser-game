@@ -1,0 +1,1028 @@
+{
+	"textures": [
+		{
+			"image": "hero.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3093,
+				"h": 4091
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 575
+					},
+					"spriteSourceSize": {
+						"x": 212,
+						"y": 177,
+						"w": 437,
+						"h": 575
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 437,
+						"h": 575
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Jump Start_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 575
+					},
+					"spriteSourceSize": {
+						"x": 212,
+						"y": 177,
+						"w": 437,
+						"h": 575
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 437,
+						"h": 575
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 436,
+						"h": 576
+					},
+					"spriteSourceSize": {
+						"x": 213,
+						"y": 176,
+						"w": 436,
+						"h": 576
+					},
+					"frame": {
+						"x": 440,
+						"y": 1,
+						"w": 436,
+						"h": 576
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 576
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 176,
+						"w": 438,
+						"h": 576
+					},
+					"frame": {
+						"x": 878,
+						"y": 1,
+						"w": 438,
+						"h": 576
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 436,
+						"h": 577
+					},
+					"spriteSourceSize": {
+						"x": 214,
+						"y": 175,
+						"w": 436,
+						"h": 577
+					},
+					"frame": {
+						"x": 1318,
+						"y": 1,
+						"w": 436,
+						"h": 577
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 577
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 175,
+						"w": 441,
+						"h": 577
+					},
+					"frame": {
+						"x": 1756,
+						"y": 1,
+						"w": 441,
+						"h": 577
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 440,
+						"h": 577
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 175,
+						"w": 440,
+						"h": 577
+					},
+					"frame": {
+						"x": 2199,
+						"y": 1,
+						"w": 440,
+						"h": 577
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 578
+					},
+					"spriteSourceSize": {
+						"x": 214,
+						"y": 174,
+						"w": 437,
+						"h": 578
+					},
+					"frame": {
+						"x": 2641,
+						"y": 1,
+						"w": 437,
+						"h": 578
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 436,
+						"h": 578
+					},
+					"spriteSourceSize": {
+						"x": 212,
+						"y": 174,
+						"w": 436,
+						"h": 578
+					},
+					"frame": {
+						"x": 1,
+						"y": 578,
+						"w": 436,
+						"h": 578
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 443,
+						"h": 578
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 174,
+						"w": 443,
+						"h": 578
+					},
+					"frame": {
+						"x": 439,
+						"y": 579,
+						"w": 443,
+						"h": 578
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 443,
+						"h": 578
+					},
+					"spriteSourceSize": {
+						"x": 196,
+						"y": 174,
+						"w": 443,
+						"h": 578
+					},
+					"frame": {
+						"x": 884,
+						"y": 580,
+						"w": 443,
+						"h": 578
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 442,
+						"h": 578
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 174,
+						"w": 442,
+						"h": 578
+					},
+					"frame": {
+						"x": 1329,
+						"y": 580,
+						"w": 442,
+						"h": 578
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Jump Start_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 578
+					},
+					"spriteSourceSize": {
+						"x": 201,
+						"y": 168,
+						"w": 441,
+						"h": 578
+					},
+					"frame": {
+						"x": 1773,
+						"y": 580,
+						"w": 441,
+						"h": 578
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 579
+					},
+					"spriteSourceSize": {
+						"x": 209,
+						"y": 173,
+						"w": 437,
+						"h": 579
+					},
+					"frame": {
+						"x": 2216,
+						"y": 581,
+						"w": 437,
+						"h": 579
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_021.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 436,
+						"h": 581
+					},
+					"spriteSourceSize": {
+						"x": 216,
+						"y": 172,
+						"w": 436,
+						"h": 581
+					},
+					"frame": {
+						"x": 2655,
+						"y": 581,
+						"w": 436,
+						"h": 581
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 439,
+						"h": 579
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 173,
+						"w": 439,
+						"h": 579
+					},
+					"frame": {
+						"x": 1,
+						"y": 1159,
+						"w": 439,
+						"h": 579
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 440,
+						"h": 580
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 172,
+						"w": 440,
+						"h": 580
+					},
+					"frame": {
+						"x": 442,
+						"y": 1159,
+						"w": 440,
+						"h": 580
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 443,
+						"h": 579
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 173,
+						"w": 443,
+						"h": 579
+					},
+					"frame": {
+						"x": 884,
+						"y": 1160,
+						"w": 443,
+						"h": 579
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 580
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 172,
+						"w": 441,
+						"h": 580
+					},
+					"frame": {
+						"x": 1329,
+						"y": 1160,
+						"w": 441,
+						"h": 580
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 442,
+						"h": 581
+					},
+					"spriteSourceSize": {
+						"x": 195,
+						"y": 171,
+						"w": 442,
+						"h": 581
+					},
+					"frame": {
+						"x": 1772,
+						"y": 1160,
+						"w": 442,
+						"h": 581
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_022.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 581
+					},
+					"spriteSourceSize": {
+						"x": 220,
+						"y": 173,
+						"w": 437,
+						"h": 581
+					},
+					"frame": {
+						"x": 2216,
+						"y": 1162,
+						"w": 437,
+						"h": 581
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 583
+					},
+					"spriteSourceSize": {
+						"x": 217,
+						"y": 171,
+						"w": 437,
+						"h": 583
+					},
+					"frame": {
+						"x": 2655,
+						"y": 1164,
+						"w": 437,
+						"h": 583
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Idle Blinking_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 443,
+						"h": 580
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 172,
+						"w": 443,
+						"h": 580
+					},
+					"frame": {
+						"x": 1,
+						"y": 1741,
+						"w": 443,
+						"h": 580
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Jump Start_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 444,
+						"h": 580
+					},
+					"spriteSourceSize": {
+						"x": 190,
+						"y": 160,
+						"w": 444,
+						"h": 580
+					},
+					"frame": {
+						"x": 446,
+						"y": 1741,
+						"w": 444,
+						"h": 580
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Jump Start_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 448,
+						"h": 581
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 153,
+						"w": 448,
+						"h": 581
+					},
+					"frame": {
+						"x": 892,
+						"y": 1742,
+						"w": 448,
+						"h": 581
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 581
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 176,
+						"w": 441,
+						"h": 581
+					},
+					"frame": {
+						"x": 1342,
+						"y": 1743,
+						"w": 441,
+						"h": 581
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 581
+					},
+					"spriteSourceSize": {
+						"x": 228,
+						"y": 174,
+						"w": 441,
+						"h": 581
+					},
+					"frame": {
+						"x": 1785,
+						"y": 1745,
+						"w": 441,
+						"h": 581
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_023.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 439,
+						"h": 581
+					},
+					"spriteSourceSize": {
+						"x": 223,
+						"y": 174,
+						"w": 439,
+						"h": 581
+					},
+					"frame": {
+						"x": 2228,
+						"y": 1749,
+						"w": 439,
+						"h": 581
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 582
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 173,
+						"w": 441,
+						"h": 582
+					},
+					"frame": {
+						"x": 1,
+						"y": 2323,
+						"w": 441,
+						"h": 582
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_020.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 439,
+						"h": 582
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 171,
+						"w": 439,
+						"h": 582
+					},
+					"frame": {
+						"x": 444,
+						"y": 2323,
+						"w": 439,
+						"h": 582
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 440,
+						"h": 583
+					},
+					"spriteSourceSize": {
+						"x": 223,
+						"y": 171,
+						"w": 440,
+						"h": 583
+					},
+					"frame": {
+						"x": 885,
+						"y": 2325,
+						"w": 440,
+						"h": 583
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 583
+					},
+					"spriteSourceSize": {
+						"x": 220,
+						"y": 170,
+						"w": 438,
+						"h": 583
+					},
+					"frame": {
+						"x": 1327,
+						"y": 2326,
+						"w": 438,
+						"h": 583
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 439,
+						"h": 583
+					},
+					"spriteSourceSize": {
+						"x": 209,
+						"y": 169,
+						"w": 439,
+						"h": 583
+					},
+					"frame": {
+						"x": 1767,
+						"y": 2328,
+						"w": 439,
+						"h": 583
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 583
+					},
+					"spriteSourceSize": {
+						"x": 210,
+						"y": 170,
+						"w": 438,
+						"h": 583
+					},
+					"frame": {
+						"x": 2208,
+						"y": 2332,
+						"w": 438,
+						"h": 583
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 216,
+						"y": 168,
+						"w": 437,
+						"h": 584
+					},
+					"frame": {
+						"x": 2648,
+						"y": 2332,
+						"w": 437,
+						"h": 584
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Jump Start_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 451,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 169,
+						"y": 145,
+						"w": 451,
+						"h": 584
+					},
+					"frame": {
+						"x": 1,
+						"y": 2907,
+						"w": 451,
+						"h": 584
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Jump Start_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 452,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 160,
+						"y": 139,
+						"w": 452,
+						"h": 584
+					},
+					"frame": {
+						"x": 454,
+						"y": 2910,
+						"w": 452,
+						"h": 584
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 211,
+						"y": 167,
+						"w": 437,
+						"h": 584
+					},
+					"frame": {
+						"x": 908,
+						"y": 2911,
+						"w": 437,
+						"h": 584
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 172,
+						"w": 437,
+						"h": 584
+					},
+					"frame": {
+						"x": 1347,
+						"y": 2913,
+						"w": 437,
+						"h": 584
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 440,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 174,
+						"w": 440,
+						"h": 584
+					},
+					"frame": {
+						"x": 1786,
+						"y": 2917,
+						"w": 440,
+						"h": 584
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 439,
+						"h": 584
+					},
+					"spriteSourceSize": {
+						"x": 209,
+						"y": 169,
+						"w": 439,
+						"h": 584
+					},
+					"frame": {
+						"x": 2228,
+						"y": 2918,
+						"w": 439,
+						"h": 584
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 585
+					},
+					"spriteSourceSize": {
+						"x": 229,
+						"y": 175,
+						"w": 441,
+						"h": 585
+					},
+					"frame": {
+						"x": 1,
+						"y": 3493,
+						"w": 441,
+						"h": 585
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 585
+					},
+					"spriteSourceSize": {
+						"x": 229,
+						"y": 173,
+						"w": 441,
+						"h": 585
+					},
+					"frame": {
+						"x": 444,
+						"y": 3496,
+						"w": 441,
+						"h": 585
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 439,
+						"h": 585
+					},
+					"spriteSourceSize": {
+						"x": 221,
+						"y": 170,
+						"w": 439,
+						"h": 585
+					},
+					"frame": {
+						"x": 887,
+						"y": 3497,
+						"w": 439,
+						"h": 585
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 585
+					},
+					"spriteSourceSize": {
+						"x": 217,
+						"y": 169,
+						"w": 437,
+						"h": 585
+					},
+					"frame": {
+						"x": 1328,
+						"y": 3499,
+						"w": 437,
+						"h": 585
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 437,
+						"h": 585
+					},
+					"spriteSourceSize": {
+						"x": 212,
+						"y": 168,
+						"w": 437,
+						"h": 585
+					},
+					"frame": {
+						"x": 1767,
+						"y": 3503,
+						"w": 437,
+						"h": 585
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 442,
+						"h": 586
+					},
+					"spriteSourceSize": {
+						"x": 229,
+						"y": 174,
+						"w": 442,
+						"h": 586
+					},
+					"frame": {
+						"x": 2206,
+						"y": 3504,
+						"w": 442,
+						"h": 586
+					}
+				},
+				{
+					"filename": "0_Reaper_Man_Walking_015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 440,
+						"h": 586
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 171,
+						"w": 440,
+						"h": 586
+					},
+					"frame": {
+						"x": 2650,
+						"y": 3504,
+						"w": 440,
+						"h": 586
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:93d1bca3245774d564fb9af21a99ab2c:3dd9d847bb4448b2fe51a1398c8e1c36:eec64b416d3f54b5cb5181ef71d8f236$"
+	}
+}

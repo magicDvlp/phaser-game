@@ -1,0 +1,160 @@
+@import "var.sass"
+@import "fonts.sass"
+@import "libs.sass"
+
+*
+	padding: 0
+	margin: 0
+	outline: none!important
+	box-sizing: border-box
+
+ul,ol
+	list-style: none
+
+a
+	text-decoration: none
+	color: var(--textColor)
+	&:focus
+		text-decoration: none
+		color: var(--textColor)
+	&:hover, &:active
+		text-decoration: none
+		color: var(--primary)
+a[href^="tel:"]
+	color: var(--textColor)!important
+
+input, textarea
+	&::-webkit-input-placeholder
+		transition: all 0.4s
+		opacity: 1
+	&::-moz-placeholder
+		transition: all 0.4s
+		opacity: 1
+	&:-ms-input-placeholder
+		transition: all 0.4s
+		opacity: 1
+	&:focus
+		&::-webkit-input-placeholder
+			opacity: 0
+		&::-moz-placeholder
+			opacity: 0
+		&:-ms-input-placeholder
+			opacity: 0
+
+html
+	font-size: 62.5%
+
+h6
+	font-size: 1rem
+	margin-bottom: 2.33em
+h5
+	font-size: 1.2rem
+	margin-bottom: 1.67em
+h4
+	font-size: 1.6rem
+	margin-bottom: 1.33em
+h3
+	font-size: 1.9rem
+	margin-bottom: 1em
+h2
+	font-size: 2.4rem
+	margin-bottom: 0.83em
+h1
+	font-size: 3.2rem
+	margin-bottom: 0.67em
+
+body
+	font-size: var(--fontSize)
+	font-family: var(--fontFamily)
+	background: var(--bodyBackground)
+	-webkit-text-size-adjust: 100%
+	min-height: 100vh
+	color: var(--textColor)
+	overflow-y: auto
+	overflow-x: hidden
+	visibility: visible
+	position: relative
+	display: flex
+	flex-direction: column
+	line-height: normal
+
+iframe
+	max-width: 100%
+
+img
+	display: block
+
+.text-field
+	color: var(--textColor)
+	font-size: 10px
+	ul,ol,li,img,p
+		margin-bottom: 1.25em
+	p
+		font-size: 1.6em
+		&:last-child
+			margin-bottom: 0
+	ul
+		font-size: 1.6em
+		&:last-child
+			margin-bottom: 0
+		li
+			padding-left: 20px
+			position: relative
+			&::before
+				content: ''
+				display: block
+				width: 10px
+				height: 10px
+				background: $primary
+				position: absolute
+				top: 0.35em
+				left: 0
+			&:last-child
+				margin-bottom: 0
+	ol
+		font-size: 1.6em
+		list-style: decimal inside
+		&:last-child
+			margin-bottom: 0
+		li
+			&:last-child
+				margin-bottom: 0
+	img
+		max-width: 100%
+		margin-left: auto
+		margin-right: auto
+		height: auto
+		&:last-child
+			margin-bottom: 0
+	h6
+		font-size: 1em
+		margin-bottom: 2.33em
+	h5
+		font-size: 1.2em
+		margin-bottom: 1.67em
+	h4
+		font-size: 1.6em
+		margin-bottom: 1.33em
+	h3
+		font-size: 1.9em
+		margin-bottom: 1em
+	h2
+		font-size: 2.4em
+		margin-bottom: 0.83em
+	h1
+		font-size: 3.2em
+		margin-bottom: 0.67em
+
+.icon
+	font-size: 10px
+
+@import 'submit-message.sass'
+
+/*MEDIA*/
+// @media(max-width: 1199px)
+
+// @media(max-width: 991px)
+
+// @media(max-width: 767px)
+
+// @media(max-width: 575px)
